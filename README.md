@@ -37,6 +37,24 @@
 
 ---
 
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Chatbot Automation
+- Built an AI chatbot that replies to leads and books appointments automatically  
+- Integrated with APIs and automation workflows  
+
+### 📲 WhatsApp Lead System
+- Automated lead capture and response system using WhatsApp  
+- Designed for businesses to convert leads 24/7  
+
+### 📊 Study Planner Tool
+- Productivity tool to manage study schedules and track progress  
+- Focused on students preparing for competitive exams  
+
+---
+
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://www.instagram.com/cipher.agentics">
