@@ -3,7 +3,7 @@
 
 <p align="center">
 Building practical AI systems that automate workflows and generate real outcomes.<br>
-Ahmedabad, India • Open to remote opportunities
+Surat, India • Open to remote opportunities
 </p>
 
 ---
