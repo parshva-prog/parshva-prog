@@ -22,7 +22,7 @@ Surat, India • Open to remote opportunities
 
 🔗 https://jee-doubts-solver.netlify.app/
 
-* AI-powered Telegram bot for solving JEE doubts
+* AI-powered Chrome bot for solving JEE doubts
 * Uses LLMs and OCR to process and solve questions
 * Generates Concept → Formula → Solution → Practice outputs
 * Built for real students and improved through user feedback
