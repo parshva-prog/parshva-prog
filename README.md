@@ -20,7 +20,7 @@ Surat, India • Open to remote opportunities
 
 ### 🤖 JEE Doubt Solver Bot
 
-🔗 *Link coming soon*
+🔗 https://jee-doubts-solver.netlify.app/
 
 * AI-powered Telegram bot for solving JEE doubts
 * Uses LLMs and OCR to process and solve questions
@@ -31,7 +31,7 @@ Surat, India • Open to remote opportunities
 
 ### 🏫 Tuition Management System
 
-🔗 *Link coming soon*
+In APK 
 
 * Full-stack platform for attendance, fee tracking, and student management
 * Designed to reduce manual administrative work
@@ -41,7 +41,7 @@ Surat, India • Open to remote opportunities
 
 ### 🌐 Tuition Class Website #1
 
-🔗 *Link coming soon*
+🔗 https://fluentra-club.netlify.app/
 
 * Website developed for a tuition institute
 * Provides student enrollment and course information
@@ -51,7 +51,7 @@ Surat, India • Open to remote opportunities
 
 ### 🌐 Tuition Class Website #2
 
-🔗 *Link coming soon*
+🔗 https://scholars-hub-surat.netlify.app/
 
 * Website built for another tuition class
 * Improved online presence and student communication
