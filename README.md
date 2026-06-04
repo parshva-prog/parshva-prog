@@ -1,3 +1,4 @@
+```html
 <h1 align="center">Parshva Shah</h1>
 <h3 align="center">AI Engineer • Automation Systems • SaaS Builder</h3>
 
@@ -9,35 +10,48 @@ Surat, India • Open to remote opportunities
 ---
 
 ## 🧠 About
-- I design and build **AI-powered automation systems** for real use-cases  
-- Focused on **lead handling, workflows, and productivity tools**  
-- I prefer **shipping working systems over collecting certificates**  
+- I design and build **AI-powered automation systems** for real use-cases
+- Focused on **AI applications, workflows, and productivity tools**
+- I prefer **shipping working systems over collecting certificates**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Chatbot Automation
-🔗 *Link coming soon*  
-- AI chatbot that handles incoming leads and books appointments  
-- Uses LLM APIs + backend logic for structured replies  
-- Designed for small businesses and service workflows  
+### 🤖 JEE Doubt Solver Bot
+
+🔗 *Link coming soon*
+- AI-powered Telegram bot for solving JEE doubts
+- Uses LLMs and OCR to process and solve questions
+- Generates Concept → Formula → Solution → Practice outputs
+- Built for real students and improved through user feedback
 
 ---
 
-### 📲 WhatsApp Lead System
-🔗 *Link coming soon*  
-- Automated system to capture, qualify, and respond to leads  
-- Works 24/7 with predefined flows and dynamic responses  
-- Focus: improving response speed and conversion  
+### 🏫 Tuition Management System
+
+🔗 *Link coming soon*
+- Full-stack platform for attendance, fee tracking, and student management
+- Designed to reduce manual administrative work
+- Built for real-world daily operations
 
 ---
 
-### 📊 Study Planner Tool
-🔗 *Link coming soon*  
-- Simple productivity system for planning and tracking study schedules  
-- Designed for students preparing for competitive exams  
-- Focus: clarity, consistency, and measurable progress  
+### 🌐 Tuition Class Website #1
+
+🔗 *Link coming soon*
+- Website developed for a tuition institute
+- Provides student enrollment and course information
+- Responsive and user-friendly design
+
+---
+
+### 🌐 Tuition Class Website #2
+
+🔗 *Link coming soon*
+- Website built for another tuition class
+- Improved online presence and student communication
+- Optimized for accessibility and ease of use
 
 ---
 
@@ -49,6 +63,7 @@ Surat, India • Open to remote opportunities
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parshva-prog&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parshva-prog&theme=tokyonight" />
@@ -57,17 +72,15 @@ Surat, India • Open to remote opportunities
 ---
 
 ## 📌 Current Focus
-- AI chatbots for business workflows  
-- Automation systems (lead → response → booking)  
-- Building small SaaS tools  
+
+- AI chatbots and AI applications
+- Automation systems
+- Building software products
+- AI workflows and productivity tools
 
 ---
 
 ## 🌐 Connect
-<p align="center">
-  <a href="https://www.instagram.com/cipher.agentics">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
 
 📩 Email: parshvashah2203@gmail.com
+```
